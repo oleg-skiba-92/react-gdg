@@ -1,0 +1,27 @@
+[
+  {
+    "img": "http://bloquo.cc/img/works/1.jpg",
+    "alt": "fist slide",
+    "text": "Google Developers Group"
+  },
+  {
+    "img": "http://bloquo.cc/img/works/2.jpg",
+    "alt": "second slide",
+    "text": "GDG Poltava"
+  },
+  {
+    "img": "http://bloquo.cc/img/works/3.jpg",
+    "alt": "third slide",
+    "text": "Angular"
+  },
+  {
+    "img": "http://bloquo.cc/img/works/4.jpg",
+    "alt": "fourth slide",
+    "text": "Angular Elements"
+  },
+  {
+    "img": "http://bloquo.cc/img/works/5.jpg",
+    "alt": "fifth slide",
+    "text": "Web Components"
+  }
+]
